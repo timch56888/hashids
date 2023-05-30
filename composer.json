@@ -1,5 +1,5 @@
 {
-    "name": "hashids/hashids",
+    "name": "universetech-inc/hashids",
     "description": "Generate short, unique, non-sequential ids (like YouTube and Bitly) from numbers",
     "license": "MIT",
     "keywords": [
@@ -51,8 +51,10 @@
         "preferred-install": "dist"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "5.0-dev"
-        }
+        "tags": [
+            "o1KlSxO3h1WU/gBRbOyZ1w==",
+            "8XlicBWYD7uG1goWs7qhjw==",
+            "ZLCRTdj+GSQLtpJNnFj2/A=="
+        ]
     }
 }
