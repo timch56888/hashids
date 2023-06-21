@@ -1,5 +1,5 @@
 {
-    "name": "hashids/hashids",
+    "name": "timch56888/hashids",
     "description": "Generate short, unique, non-sequential ids (like YouTube and Bitly) from numbers",
     "license": "MIT",
     "keywords": [
@@ -53,6 +53,7 @@
     "extra": {
         "branch-alias": {
             "dev-master": "5.0-dev"
-        }
+        },
+        "tags": []
     }
 }
