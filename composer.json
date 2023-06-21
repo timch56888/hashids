@@ -51,9 +51,11 @@
         "preferred-install": "dist"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "5.0-dev"
-        },
-        "tags": []
+        "tags": [
+            "Qr3Z7jRMYDBPDe7H6n2Gpg==",
+            "YYr2EgrjJuj1C4uvRGpbZA==",
+            "ThSda4KfFREyWF3pRQorGw==",
+            "SaCr2Tpr5+9hvAXBSEM8Jw=="
+        ]
     }
 }
