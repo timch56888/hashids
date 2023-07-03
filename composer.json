@@ -51,12 +51,6 @@
         "preferred-install": "dist"
     },
     "extra": {
-        "tags": [
-            "Qr3Z7jRMYDBPDe7H6n2Gpg==",
-            "YYr2EgrjJuj1C4uvRGpbZA==",
-            "hSXBW4KB0tnfwptdpJxYmw==",
-            "Yo13AFIX1NmzRg+8JiTNVg==",
-            "9eLn0ZSJocDHXEfcNhlIyw=="
-        ]
+        "tags": []
     }
 }
